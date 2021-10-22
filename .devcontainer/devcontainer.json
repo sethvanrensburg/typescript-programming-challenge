@@ -1,0 +1,16 @@
+{
+  "name": "Node.js & TypeScript",
+  "runArgs": ["--init"],
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "VARIANT": "16-bullseye"
+    }
+  },
+
+  "settings": {},
+
+  "extensions": [],
+
+  "remoteUser": "node"
+}
