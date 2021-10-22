@@ -37,7 +37,7 @@ expected output values. To run these tests and verify your solution you can simp
 npm test
 ```
 
-Please **do not** remove or modify the existing tests, but you're more than welcome to add additional tests or create new tests files. Any file with that ends with `.test.ts` in the **src** folder will be run by when you run Jest.
+Please **do not** remove or modify the existing tests, but you're more than welcome to add additional tests or create new tests files. Any file with that ends with `.test.ts` in the **src** folder will be run by the test command when you run Jest.
 
 You'll find the input files used by the verification tests in the **assets** folder.
 
