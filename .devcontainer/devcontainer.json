@@ -8,6 +8,8 @@
     }
   },
 
+  "postCreateCommand": "npm install",
+
   "settings": {},
 
   "extensions": [],
