@@ -26,6 +26,12 @@ As with all JavaScript/TypeScript projects the you'll want to install the npm pa
 npm install
 ```
 
+### Alternative: GitHub Codespaces
+
+If you'd prefer to not install anything on your machine, you can try out [GitHub Codespaces](https://github.com/features/codespaces) which will spin up a development environment along with a browser based version of VSCode in the cloud. You can do this by selecting the green **Code** button and choosing the **Codespaces** tab, then choosing **New codespace** on either this code repository or your own fork of this code repository.
+
+![Screen Recording 2021-10-23 at 21 33 11](https://user-images.githubusercontent.com/21124794/138570852-1f2450d1-02a3-4ebc-a129-de153fd76d72.gif)
+
 ### Solving the challenge
 
 In the [src/index.ts](./src/index.ts) file you'll find 3 skeleton functions, one for each of the questions in this challenge, which you'll need to modify to return correct values. Please **do not** change the name of these functions or the input/output types as the solution checkers rely on this being unmodified. You are free to add additional code to this file or create new code files as part of your solution.
